@@ -473,3 +473,13 @@ Uploaded files are stored on the local filesystem under `backend/uploads/` and s
 - Uploaded files live on the local filesystem; use object storage (S3, etc.) in production.
 - Before deploying: change `JWT_SECRET`, all seeded passwords, `FRONTEND_URL`, database credentials, and set `NODE_ENV=production`.
 - Serve the frontend and API over HTTPS and restrict CORS to the production storefront origin.
+
+
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/1.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/2.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/3.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/4.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/5.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/6.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/7.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/E-Commerce-Electronics-Shop-Using-Next.js-Node-Express---PostgreSQL-Complete-Project/refs/heads/main/8.png" alt="Cairocoders Ednalan">
